@@ -38,7 +38,7 @@
             "id": 4,
             "project_src": "https://raw.githubusercontent.com/ritikkashyap720/Porfolio-backend/refs/heads/main/Project_images/nabhasAircon-preview.png",
             "title": "Nabha Aircon",
-            "description": "Nabhas Aircon Pvt. Ltd is a dynamic website built using React for the frontend and Node.js with Express for the backend. It features a responsive design for seamless user experiences, dynamic routing to showcase products efficiently, and an integrated Nodemailer setup for smooth email communication.",
+            "description": "Nabhas Aircon Pvt. Ltd is a company specializing in air conditioning solutions. It is built using React for the frontend and Node.js with Express for the backend. It features a responsive design for seamless user experiences, dynamic routing to showcase products efficiently, and an integrated Nodemailer setup for smooth email communication.",
             "link":"https://www.nabhasaircon.com/"
         },
         {
