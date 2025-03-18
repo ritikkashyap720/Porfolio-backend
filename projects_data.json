@@ -12,8 +12,8 @@
             "project_src": "https://raw.githubusercontent.com/ritikkashyap720/Porfolio-backend/refs/heads/main/Project_images/music-preview.png",
             "title": "Soundscape",
             "tech": "React, Node js, Express, MongoDB, Ffmpeg",
-            "description": "KeyMorphix is a wireless keyboard app built in Kotlin that allows users to control their Windows PC using their mobile phone. The app connects via WebSockets to a server app installed on the PC, transforming your phone into a full-functioning keyboard and touchpad.",
-            "readme": "https://raw.githubusercontent.com/ritikkashyap720/Codeshare-Realtime-code-editor-/refs/heads/main/README.md",
+            "description": "SoundScape is a music application that allows users to stream music. This app offers an immersive experience with features such as searching for music,  and listening to music while enjoying a smooth user interface. Built using React and Tailwind CSS for a responsive and sleek design, the app uses Node.js and MongoDB for backend functionality and data management. FFmpeg is incorporated to handle video streaming and provide a seamless media experience. Additionally, Motion adds interactive animations to enhance the user experience.",
+            "readme": "https://raw.githubusercontent.com/ritikkashyap720/Soundscape/refs/heads/main/README.md",
             "link": "https://github.com/ritikkashyap720/Soundscape"
         },
         {
